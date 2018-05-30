@@ -16,14 +16,14 @@ Lucas ***Aires***
 
 ## como compilar e executar o programa
 
-```
+```shell
 $ gcc main.c -o main
 $ ./main
 ```
 
 O programa eh o seguinte
 
-```
+```c
 #include <stdio.h>
 
 int main(void){
