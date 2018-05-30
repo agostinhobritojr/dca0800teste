@@ -3,11 +3,11 @@
 ## Esse eh o meu Arquivo readme
 
 
-Agostinho Brito
+Agostinho **Brito** Junior
 
-Lucas Aires
+Lucas ***Aires***
 
-Banana
+_Banana_
 
 Goiaba
 
