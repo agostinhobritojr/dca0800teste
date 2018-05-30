@@ -7,5 +7,4 @@ Agostinho Brito
 Lucas Aires
 Banana
 Goiaba
-
-
+42 é a resposta!
