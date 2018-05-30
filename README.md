@@ -23,7 +23,7 @@ $ ./main
 
 O programa eh o seguinte
 
-```c
+```
 #include <stdio.h>
 
 int main(void){
