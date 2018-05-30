@@ -32,3 +32,7 @@ int main(void){
 
 ```
 42 é a resposta!
+
+## Como usar o programa
+
+![Exemplo de print](imagens/exemplo.jpg)
