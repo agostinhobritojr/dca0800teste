@@ -7,8 +7,11 @@ Agostinho **Brito** Junior
 
 Lucas ***Aires***
 
-_Banana_
+1. _Banana_
+2. Goiaba
+3. Sapoti
 
-Goiaba
+* ligar o carro
+* olhar o espelho
 
 42 é a resposta!
