@@ -14,4 +14,21 @@ Lucas ***Aires***
 * ligar o carro
 * olhar o espelho
 
+## como compilar e executar o programa
+
+```
+$ gcc main.c -o main
+$ ./main
+```
+
+O programa eh o seguinte
+
+```c
+#include <stdio.h>
+
+int main(void){
+  printf("hello, world!\n");
+}
+
+```
 42 é a resposta!
